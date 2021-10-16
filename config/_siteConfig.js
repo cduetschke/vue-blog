@@ -19,15 +19,15 @@ export default {
   },
   mainMenu: [
     {
-      name: 'About',
+      name: 'About me',
       link: '/about'
     },
     {
-      name: 'Contact',
+      name: 'Contact me',
       link: '/contact'
     },
     {
-      name: 'Categories',
+      name: 'SomeCategories',
       link: '/categories'
     },
     {
