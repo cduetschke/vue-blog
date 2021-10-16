@@ -6,6 +6,7 @@
         blink: blinking
       }"
     >
+      <!--
       <img
         v-for="x in frames"
         :key="x"
@@ -16,6 +17,10 @@
         :key="`${x}-r`"
         :src="`/logo-frames/logo-f${frames - x}.svg`"
       />
+      -->
+      <div>
+        <img src="logo.png" />
+      </div>
     </div>
   </div>
 </template>
