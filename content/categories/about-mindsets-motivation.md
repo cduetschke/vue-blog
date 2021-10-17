@@ -1,7 +1,6 @@
 ---
 name: About mindsets & motivation
-image: https://picsum.photos/1800/1801
+image: /uploads/brain-icon-png-2528.png
 description: "Our daily basis to live: Motivation, which is hardly influenced by
-  our minndset."
+  our minndset. How can we change? Can we change it?"
 ---
-Extend the functionality of Awake with third party integrations
