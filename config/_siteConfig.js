@@ -27,7 +27,7 @@ export default {
       link: '/contact'
     },
     {
-      name: 'SomeCategories',
+      name: 'Categories',
       link: '/categories'
     }
   ],
@@ -51,11 +51,10 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'Kingrookie-Blog'
   },
-
   // Newsletter Subscribe
- /* newsletter: {
+  /* newsletter: {
     on: true,
     heading: 'Subscribe to Our Newsletter',
     btnText: 'Subscribe',
@@ -71,7 +70,7 @@ export default {
       formAction: ''
     }
   },
-*/
+  */
   // Categories
   categories: {
     on: true,

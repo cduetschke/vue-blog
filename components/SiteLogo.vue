@@ -19,7 +19,7 @@
       />
       -->
       <div>
-        <img src="logo.png" />
+        <img src="/logo.png" />
       </div>
     </div>
   </div>
