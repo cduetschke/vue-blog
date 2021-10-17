@@ -29,16 +29,6 @@ export default {
     {
       name: 'SomeCategories',
       link: '/categories'
-    },
-    {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
     }
   ],
   hero: {
@@ -65,7 +55,7 @@ export default {
   },
 
   // Newsletter Subscribe
-  newsletter: {
+ /* newsletter: {
     on: true,
     heading: 'Subscribe to Our Newsletter',
     btnText: 'Subscribe',
@@ -81,7 +71,7 @@ export default {
       formAction: ''
     }
   },
-
+*/
   // Categories
   categories: {
     on: true,
